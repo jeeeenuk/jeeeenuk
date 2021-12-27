@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
 ## Me
-<a href="jeenuk.chung@gmail.com"><img src="https://img.shields.io/badge/jeenuk.chung@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=jeenuk.chung@gmail.com"/></a><br/>
+<a href="mailto:jeenuk.chung@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/jeenuk.chung/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/jeenukchung"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a><br/>
 :iphone: (82+) 010-8738-7714
 </div>
