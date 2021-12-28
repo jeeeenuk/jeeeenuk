@@ -17,3 +17,4 @@
 <a href="https://instagram.com/jeenukchung"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a><br/>
 :iphone: (82+) 010-8738-7714
 </div>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jeeenuk})](https://solved.ac/{jeeeenuk})
