@@ -18,4 +18,4 @@
 :iphone: (82+) 010-8738-7714
 </div>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jeeenuk})](https://solved.ac/{jeeeenuk})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wjdwlsdnr041})](https://solved.ac/{wjdwlsdnr041})
