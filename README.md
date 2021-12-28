@@ -1,5 +1,7 @@
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Jeenuk%20Jung&fontSize=50&fontColor=3E8DCC)
+  
 ## :gem: Tech Stack :gem:
 #### Tech that I've used at least once <br/><br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
