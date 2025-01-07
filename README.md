@@ -18,5 +18,5 @@
 :iphone: (82+) 010-8738-7714
 
 ##
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwlsdnr041)](https://solved.ac/wjdwlsdnr041/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwlsdnr041)](https://solved.ac/wjdwlsdnr041/)-->
 </div>
